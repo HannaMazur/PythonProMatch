@@ -1,2 +1,3 @@
 # PythonProMatch
-Python ProMatch Workshop
+Python ProMatch Workshop - Working on exercises
+
